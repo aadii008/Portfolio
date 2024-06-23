@@ -1,0 +1,45 @@
+[
+  
+  
+  {
+    "name": "Machine Learning",
+    "image": "ml",
+    "category": "mern",
+    "links": {
+   "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "DataBase Management System",
+    "image": "nptel",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+    
+ 
+  {
+    "name": "Google Cloud Computing Foundations",
+    "image": "gcc",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+ 
+  {
+    "name": "AWS - Machine Learning Foundations",
+    "image": "aws",
+    "category": "mern"
+    
+    
+  }
+  
+  
+ 
+ 
+]
