@@ -1,13 +1,13 @@
 [
   
     {
-    "name": "Credit Card Fraud Detection",
+    "name": "Expense Insight",
     "desc": "This Machine Learning model identifies potentially fraudulent transactions in real-time or post-transaction analysis.",
-    "image": "w",
+    "image": "wx",
     "category": "mern",
     "links": {
-      "view": "https://github.com/aadii008",
-      "code": "https://github.com/aadii008"
+      "view": "https://github.com/aadii008/Expense-Tracker",
+      "code": "https://github.com/aadii008/Expense-Tracker"
     }
   },
   {
