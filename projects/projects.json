@@ -1,13 +1,13 @@
 [
   
     {
-    "name": "Credit Card fraud Detection",
-    "desc": "This Machine Learning model identifies potentially fraudulent transactions in real-time or post-transaction analysis.",
-    "image": "w",
+    "name": "Expense Insight",
+    "desc": "This Machine learning model predicts future expenses based on historical data.",
+    "image": "wx",
     "category": "mern",
     "links": {
-      "view": "https://github.com/aadii008/Credit-Card-fraud-Detection",
-      "code": "https://github.com/aadii008/Credit-Card-fraud-Detection"
+      "view": "https://github.com/aadii008/Expense-Tracker",
+      "code": "https://github.com/aadii008/Expense-Tracker"
     }
   },
   {
@@ -22,13 +22,13 @@
   },
   
   {
-    "name": "Portfolio Website",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio",
-    "category": "basicweb",
+    "name": "Credit Card fraud Detection",
+    "desc": "This Machine Learning model identifies potentially fraudulent transactions in real-time or post-transaction analysis.",
+    "image": "w",
+    "category": "mern",
     "links": {
-      "view": "#",
-      "code": "https://github.com/aadii008/Portfolio"
+      "view": "https://github.com/aadii008/Credit-Card-fraud-Detection",
+      "code": "https://github.com/aadii008/Credit-Card-fraud-Detection"
     }
   },
   {
