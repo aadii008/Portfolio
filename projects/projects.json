@@ -32,9 +32,9 @@
     }
   },
   {
-    "name": "Netflix Home Page",
-    "desc": "Netflix-inspired home page using HTML and CSS.",
-    "image": "netflix",
+    "name": "Sorting Visualizer",
+    "desc": "A web-based tool to visualize various sorting algorithms..",
+    "image": "sv",
     "category": "mern",
     "links": {
       "view": "https://sortview.vercel.app",
