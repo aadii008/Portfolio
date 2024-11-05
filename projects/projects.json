@@ -1,9 +1,9 @@
 [
   
     {
-    "name": "Expense Insight",
+    "name": "AI-Powered Calculator APP",
     "desc": "This Machine learning model predicts future expenses based on historical data.",
-    "image": "wx",
+    "image": "FYO",
     "category": "mern",
     "links": {
       "view": "https://github.com/aadii008/Expense-Tracker",
